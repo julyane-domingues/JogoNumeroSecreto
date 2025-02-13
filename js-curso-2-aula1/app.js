@@ -29,7 +29,7 @@ function verificarChute() {
         if (chute > numeroSecreto) {
             exibirTextoNaTela('p', 'O número secreto é menor, otário');
         } else {
-            exibirTextoNaTela('p', 'Errou! O número secreto é maior, seu Berbigão');
+            exibirTextoNaTela('p', 'Errou! O número secreto é maior, seu idiota');
         }
         tentativas++;
         limparCampo();
